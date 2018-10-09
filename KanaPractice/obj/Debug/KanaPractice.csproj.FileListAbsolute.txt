@@ -1,0 +1,13 @@
+c:\users\angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\bin\Debug\KanaPractice.exe.config
+c:\users\angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\bin\Debug\KanaPractice.exe
+c:\users\angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\bin\Debug\KanaPractice.pdb
+c:\users\angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\obj\Debug\KanaPractice.csprojResolveAssemblyReference.cache
+c:\users\angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\obj\Debug\KanaPractice.Form1.resources
+c:\users\angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\obj\Debug\KanaPractice.Properties.Resources.resources
+c:\users\angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\obj\Debug\KanaPractice.csproj.GenerateResource.Cache
+c:\users\angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\obj\Debug\KanaPractice.exe
+c:\users\angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\obj\Debug\KanaPractice.pdb
+C:\Users\Angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\bin\Debug\KanaPractice.exe.manifest
+C:\Users\Angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\bin\Debug\KanaPractice.application
+C:\Users\Angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\obj\Debug\KanaPractice.exe.manifest
+C:\Users\Angie\documents\visual studio 2017\Projects\KanaPractice\KanaPractice\obj\Debug\KanaPractice.application
